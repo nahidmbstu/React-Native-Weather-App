@@ -1,0 +1,1885 @@
+{
+  "message": "accurate",
+  "cod": "200",
+  "count": 50,
+  "list": [
+    {
+      "id": 1185241,
+      "name": "Dhaka",
+      "coord": {
+        "lat": 23.7104,
+        "lon": 90.4074
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 7701342,
+      "name": "Bangshal",
+      "coord": {
+        "lat": 23.7156,
+        "lon": 90.4063
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1337178,
+      "name": "Dhaka District",
+      "coord": {
+        "lat": 23.8109,
+        "lon": 90.3654
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1188909,
+      "name": "Sāmāir",
+      "coord": {
+        "lat": 23.8,
+        "lon": 90.4167
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185155,
+      "name": "Narayanganj",
+      "coord": {
+        "lat": 23.6233,
+        "lon": 90.5011
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1209308,
+      "name": "Bhāgyakul",
+      "coord": {
+        "lat": 23.5167,
+        "lon": 90.2333
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185100,
+      "name": "Dohar",
+      "coord": {
+        "lat": 23.5883,
+        "lon": 90.1469
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185098,
+      "name": "Tungi",
+      "coord": {
+        "lat": 23.89,
+        "lon": 90.4058
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1348441,
+      "name": "Mānikganj",
+      "coord": {
+        "lat": 23.8553,
+        "lon": 90.0125
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1207047,
+      "name": "Char Bhadrasan",
+      "coord": {
+        "lat": 23.3167,
+        "lon": 90.2167
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185117,
+      "name": "Narsingdi",
+      "coord": {
+        "lat": 23.9208,
+        "lon": 90.7181
+      },
+      "main": {
+        "temp": 301.74,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1210997,
+      "name": "People’s Republic of Bangladesh",
+      "coord": {
+        "lat": 24,
+        "lon": 90
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1191368,
+      "name": "Palang",
+      "coord": {
+        "lat": 23.2167,
+        "lon": 90.35
+      },
+      "main": {
+        "temp": 300.546,
+        "pressure": 1011.63,
+        "humidity": 92,
+        "temp_min": 300.546,
+        "temp_max": 300.546,
+        "sea_level": 1011.87,
+        "grnd_level": 1011.63
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 4.9,
+        "deg": 165.004
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 1.3625
+      },
+      "snow": null,
+      "clouds": {
+        "all": 92
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185165,
+      "name": "Mirzapur",
+      "coord": {
+        "lat": 24.1,
+        "lon": 90.1
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1203344,
+      "name": "Faridpur",
+      "coord": {
+        "lat": 23.6,
+        "lon": 89.8333
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1337179,
+      "name": "Dhaka Division",
+      "coord": {
+        "lat": 24.1667,
+        "lon": 90.4167
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1337245,
+      "name": "Madaripur",
+      "coord": {
+        "lat": 23.1753,
+        "lon": 90.2072
+      },
+      "main": {
+        "temp": 301.446,
+        "pressure": 1010.41,
+        "humidity": 92,
+        "temp_min": 301.446,
+        "temp_max": 301.446,
+        "sea_level": 1011.42,
+        "grnd_level": 1010.41
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 2.55,
+        "deg": 120.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 32
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 1212152,
+      "name": "Badarpāsa",
+      "coord": {
+        "lat": 23.2167,
+        "lon": 90.05
+      },
+      "main": {
+        "temp": 301.446,
+        "pressure": 1010.41,
+        "humidity": 92,
+        "temp_min": 301.446,
+        "temp_max": 301.446,
+        "sea_level": 1011.42,
+        "grnd_level": 1010.41
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 2.55,
+        "deg": 120.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 32
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ]
+    },
+    {
+      "id": 1193823,
+      "name": "Nabinagar",
+      "coord": {
+        "lat": 23.8917,
+        "lon": 90.9733
+      },
+      "main": {
+        "temp": 301.67,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1207339,
+      "name": "Chāndpur",
+      "coord": {
+        "lat": 23.15,
+        "lon": 90.7167
+      },
+      "main": {
+        "temp": 300.546,
+        "pressure": 1011.63,
+        "humidity": 92,
+        "temp_min": 300.546,
+        "temp_max": 300.546,
+        "sea_level": 1011.87,
+        "grnd_level": 1011.63
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 4.9,
+        "deg": 165.004
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 1.3625
+      },
+      "snow": null,
+      "clouds": {
+        "all": 92
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1201753,
+      "name": "Hajiganj",
+      "coord": {
+        "lat": 23.2511,
+        "lon": 90.8592
+      },
+      "main": {
+        "temp": 300.546,
+        "pressure": 1011.63,
+        "humidity": 92,
+        "temp_min": 300.546,
+        "temp_max": 300.546,
+        "sea_level": 1011.87,
+        "grnd_level": 1011.63
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 4.9,
+        "deg": 165.004
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 1.3625
+      },
+      "snow": null,
+      "clouds": {
+        "all": 92
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1189056,
+      "name": "Sakhipur",
+      "coord": {
+        "lat": 24.3,
+        "lon": 90.1833
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185263,
+      "name": "Bhairab Bazar",
+      "coord": {
+        "lat": 24.0667,
+        "lon": 90.9667
+      },
+      "main": {
+        "temp": 301.68,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1336144,
+      "name": "Tangail",
+      "coord": {
+        "lat": 24.25,
+        "lon": 89.9167
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185210,
+      "name": "Gaurnadi",
+      "coord": {
+        "lat": 22.9667,
+        "lon": 90.2333
+      },
+      "main": {
+        "temp": 298.646,
+        "pressure": 1011.23,
+        "humidity": 100,
+        "temp_min": 298.646,
+        "temp_max": 298.646,
+        "sea_level": 1011.59,
+        "grnd_level": 1011.23
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 1.75,
+        "deg": 137.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 9.6075
+      },
+      "snow": null,
+      "clouds": {
+        "all": 88
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185236,
+      "name": "Raipur",
+      "coord": {
+        "lat": 23.05,
+        "lon": 90.7667
+      },
+      "main": {
+        "temp": 300.196,
+        "pressure": 1011.63,
+        "humidity": 97,
+        "temp_min": 300.196,
+        "temp_max": 300.196,
+        "sea_level": 1011.83,
+        "grnd_level": 1011.63
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 4.7,
+        "deg": 169.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 0.2775
+      },
+      "snow": null,
+      "clouds": {
+        "all": 68
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185127,
+      "name": "Ramganj",
+      "coord": {
+        "lat": 23.1,
+        "lon": 90.85
+      },
+      "main": {
+        "temp": 300.546,
+        "pressure": 1011.63,
+        "humidity": 92,
+        "temp_min": 300.546,
+        "temp_max": 300.546,
+        "sea_level": 1011.87,
+        "grnd_level": 1011.63
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 4.9,
+        "deg": 165.004
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 1.3625
+      },
+      "snow": null,
+      "clouds": {
+        "all": 92
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185276,
+      "name": "Bajitpur",
+      "coord": {
+        "lat": 24.2167,
+        "lon": 90.95
+      },
+      "main": {
+        "temp": 301.69,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185218,
+      "name": "Gafargaon",
+      "coord": {
+        "lat": 24.4333,
+        "lon": 90.5667
+      },
+      "main": {
+        "temp": 301.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 301.15,
+        "temp_max": 301.15
+      },
+      "dt": 1533038400,
+      "wind": {
+        "speed": 2.1,
+        "deg": 150
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1209562,
+      "name": "Bera",
+      "coord": {
+        "lat": 24.0833,
+        "lon": 89.6167
+      },
+      "main": {
+        "temp": 300.696,
+        "pressure": 1009.44,
+        "humidity": 92,
+        "temp_min": 300.696,
+        "temp_max": 300.696,
+        "sea_level": 1011.14,
+        "grnd_level": 1009.44
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 1.75,
+        "deg": 196.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 0.57
+      },
+      "snow": null,
+      "clouds": {
+        "all": 76
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1187197,
+      "name": "Srīpur",
+      "coord": {
+        "lat": 23.7333,
+        "lon": 89.4833
+      },
+      "main": {
+        "temp": 300.696,
+        "pressure": 1009.44,
+        "humidity": 92,
+        "temp_min": 300.696,
+        "temp_max": 300.696,
+        "sea_level": 1011.14,
+        "grnd_level": 1009.44
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 1.75,
+        "deg": 196.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 0.57
+      },
+      "snow": null,
+      "clouds": {
+        "all": 76
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185755,
+      "name": "Unāisār",
+      "coord": {
+        "lat": 23.4333,
+        "lon": 91.1833
+      },
+      "main": {
+        "temp": 302.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 302.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533036600,
+      "wind": {
+        "speed": 4,
+        "deg": 169.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 1185186,
+      "name": "Comilla",
+      "coord": {
+        "lat": 23.4578,
+        "lon": 91.2044
+      },
+      "main": {
+        "temp": 302.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 302.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533036600,
+      "wind": {
+        "speed": 4,
+        "deg": 169.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 1193239,
+      "name": "Nārāyanpur",
+      "coord": {
+        "lat": 23.9,
+        "lon": 91.2333
+      },
+      "main": {
+        "temp": 302.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 302.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533036600,
+      "wind": {
+        "speed": 3.85,
+        "deg": 168.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 1185121,
+      "name": "Shahzadpur",
+      "coord": {
+        "lat": 24.1667,
+        "lon": 89.6
+      },
+      "main": {
+        "temp": 300.696,
+        "pressure": 1009.44,
+        "humidity": 92,
+        "temp_min": 300.696,
+        "temp_max": 300.696,
+        "sea_level": 1011.14,
+        "grnd_level": 1009.44
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 1.75,
+        "deg": 196.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 0.57
+      },
+      "snow": null,
+      "clouds": {
+        "all": 76
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1337249,
+      "name": "Kishorganj",
+      "coord": {
+        "lat": 24.4333,
+        "lon": 90.7667
+      },
+      "main": {
+        "temp": 300.946,
+        "pressure": 1011.23,
+        "humidity": 93,
+        "temp_min": 300.946,
+        "temp_max": 300.946,
+        "sea_level": 1012.07,
+        "grnd_level": 1011.23
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 2.05,
+        "deg": 165.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 5.065
+      },
+      "snow": null,
+      "clouds": {
+        "all": 32
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185183,
+      "name": "Laksham",
+      "coord": {
+        "lat": 23.2472,
+        "lon": 91.1425
+      },
+      "main": {
+        "temp": 302.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 302.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533036600,
+      "wind": {
+        "speed": 4,
+        "deg": 169.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 1196292,
+      "name": "Lakshmipur",
+      "coord": {
+        "lat": 22.95,
+        "lon": 90.8333
+      },
+      "main": {
+        "temp": 300.196,
+        "pressure": 1011.63,
+        "humidity": 97,
+        "temp_min": 300.196,
+        "temp_max": 300.196,
+        "sea_level": 1011.83,
+        "grnd_level": 1011.63
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 4.7,
+        "deg": 169.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 0.2775
+      },
+      "snow": null,
+      "clouds": {
+        "all": 68
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1279290,
+      "name": "Agartala",
+      "coord": {
+        "lat": 23.8364,
+        "lon": 91.275
+      },
+      "main": {
+        "temp": 302.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 302.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533036600,
+      "wind": {
+        "speed": 3.85,
+        "deg": 168.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 1255791,
+      "name": "Sonamura",
+      "coord": {
+        "lat": 23.4719,
+        "lon": 91.2664
+      },
+      "main": {
+        "temp": 302.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 302.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533036600,
+      "wind": {
+        "speed": 4,
+        "deg": 169.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 1185920,
+      "name": "Tungipara",
+      "coord": {
+        "lat": 22.9,
+        "lon": 89.9167
+      },
+      "main": {
+        "temp": 298.646,
+        "pressure": 1011.23,
+        "humidity": 100,
+        "temp_min": 298.646,
+        "temp_max": 298.646,
+        "sea_level": 1011.59,
+        "grnd_level": 1011.23
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 1.75,
+        "deg": 137.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 9.6075
+      },
+      "snow": null,
+      "clouds": {
+        "all": 88
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185171,
+      "name": "Mehendiganj",
+      "coord": {
+        "lat": 22.8167,
+        "lon": 90.5333
+      },
+      "main": {
+        "temp": 300.196,
+        "pressure": 1011.63,
+        "humidity": 97,
+        "temp_min": 300.196,
+        "temp_max": 300.196,
+        "sea_level": 1011.83,
+        "grnd_level": 1011.63
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 4.7,
+        "deg": 169.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 0.2775
+      },
+      "snow": null,
+      "clouds": {
+        "all": 68
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185272,
+      "name": "Kalia",
+      "coord": {
+        "lat": 23.0396,
+        "lon": 89.6328
+      },
+      "main": {
+        "temp": 301.846,
+        "pressure": 1010.17,
+        "humidity": 88,
+        "temp_min": 301.846,
+        "temp_max": 301.846,
+        "sea_level": 1011.38,
+        "grnd_level": 1010.17
+      },
+      "dt": 1533039608,
+      "wind": {
+        "speed": 1,
+        "deg": 257.004
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 0.215
+      },
+      "snow": null,
+      "clouds": {
+        "all": 88
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1276938,
+      "name": "Barjala",
+      "coord": {
+        "lat": 23.6167,
+        "lon": 91.3667
+      },
+      "main": {
+        "temp": 302.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 302.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533036600,
+      "wind": {
+        "speed": 4,
+        "deg": 169.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 1185293,
+      "name": "Narail",
+      "coord": {
+        "lat": 23.1667,
+        "lon": 89.5
+      },
+      "main": {
+        "temp": 301.346,
+        "pressure": 1009.69,
+        "humidity": 91,
+        "temp_min": 301.346,
+        "temp_max": 301.346,
+        "sea_level": 1011.18,
+        "grnd_level": 1009.69
+      },
+      "dt": 1533039609,
+      "wind": {
+        "speed": 1.6,
+        "deg": 276.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 1.5525
+      },
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1258447,
+      "name": "Ranir Bazar",
+      "coord": {
+        "lat": 23.8333,
+        "lon": 91.3667
+      },
+      "main": {
+        "temp": 302.15,
+        "pressure": 998,
+        "humidity": 83,
+        "temp_min": 302.15,
+        "temp_max": 302.15
+      },
+      "dt": 1533036600,
+      "wind": {
+        "speed": 3.85,
+        "deg": 168.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 75
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ]
+    },
+    {
+      "id": 1185115,
+      "name": "Sirajganj",
+      "coord": {
+        "lat": 24.45,
+        "lon": 89.7167
+      },
+      "main": {
+        "temp": 302.296,
+        "pressure": 1009.69,
+        "humidity": 86,
+        "temp_min": 302.296,
+        "temp_max": 302.296,
+        "sea_level": 1011.54,
+        "grnd_level": 1009.69
+      },
+      "dt": 1533039609,
+      "wind": {
+        "speed": 3.05,
+        "deg": 134.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": null,
+      "snow": null,
+      "clouds": {
+        "all": 20
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ]
+    },
+    {
+      "id": 1336137,
+      "name": "Barisal",
+      "coord": {
+        "lat": 22.7019,
+        "lon": 90.3711
+      },
+      "main": {
+        "temp": 300.196,
+        "pressure": 1011.63,
+        "humidity": 97,
+        "temp_min": 300.196,
+        "temp_max": 300.196,
+        "sea_level": 1011.83,
+        "grnd_level": 1011.63
+      },
+      "dt": 1533039609,
+      "wind": {
+        "speed": 4.7,
+        "deg": 169.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 0.2775
+      },
+      "snow": null,
+      "clouds": {
+        "all": 68
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1336136,
+      "name": "Bhola",
+      "coord": {
+        "lat": 22.6833,
+        "lon": 90.65
+      },
+      "main": {
+        "temp": 300.196,
+        "pressure": 1011.63,
+        "humidity": 97,
+        "temp_min": 300.196,
+        "temp_max": 300.196,
+        "sea_level": 1011.83,
+        "grnd_level": 1011.63
+      },
+      "dt": 1533039609,
+      "wind": {
+        "speed": 4.7,
+        "deg": 169.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 0.2775
+      },
+      "snow": null,
+      "clouds": {
+        "all": 68
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ]
+    },
+    {
+      "id": 1185156,
+      "name": "Nalchiti",
+      "coord": {
+        "lat": 22.6333,
+        "lon": 90.2833
+      },
+      "main": {
+        "temp": 298.646,
+        "pressure": 1011.23,
+        "humidity": 100,
+        "temp_min": 298.646,
+        "temp_max": 298.646,
+        "sea_level": 1011.59,
+        "grnd_level": 1011.23
+      },
+      "dt": 1533039609,
+      "wind": {
+        "speed": 1.75,
+        "deg": 137.504
+      },
+      "sys": {
+        "country": ""
+      },
+      "rain": {
+        "3h": 9.6075
+      },
+      "snow": null,
+      "clouds": {
+        "all": 88
+      },
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ]
+    }
+  ]
+}
