@@ -17,7 +17,7 @@ import { getCityName } from "../actions";
 const { width, height } = Dimensions.get("window");
 
 import PushController from "./PushController";
-import PushNotification from "react-native-push-notification";
+// import PushNotification from "react-native-push-notification";
 
 class MyListItem extends React.PureComponent {
   _onPress = () => {
